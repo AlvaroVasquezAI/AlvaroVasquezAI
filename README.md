@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/alvarovasquezai/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=white" />
       <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:linkedin.svg?color=black" />
@@ -14,7 +14,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/your-x-handle/" target="_blank">
+  <a href="https://x.com/alvarovasquezai" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000" />
@@ -22,7 +22,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/your-instagram-handle/" target="_blank">
+  <a href="https://www.instagram.com/alvarovasquez.ai/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/instagram/000000" />
@@ -30,7 +30,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.threads.net/@your-threads-handle" target="_blank">
+  <a href="https://www.threads.com/@alvarovasquez.ai" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/threads/000000" />
@@ -38,7 +38,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@your-youtube-channel" target="_blank">
+  <a href="https://www.youtube.com/@AlvaroVasquezAI" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/youtube/000000" />
@@ -46,7 +46,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@your-tiktok-handle" target="_blank">
+  <a href="https://www.tiktok.com/@alvarovasquez.ai" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tiktok/000000" />
@@ -54,7 +54,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://huggingface.co/your-hf-username" target="_blank">
+  <a href="https://huggingface.co/AlvaroVasquezAI" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/huggingface/FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/huggingface/000000" />
