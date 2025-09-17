@@ -88,8 +88,10 @@
 </table>
 
 <br/>
+<tr>
 
 <div align="center">
+  <h2>My Tech Stack</h2>
   <p><b>Core Languages</b></p>
   <p>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
@@ -134,7 +136,7 @@
     <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
   </p>
 </div>
-
+<br/>
 <!-- Featured Projects -->
 <div align="center">
   <h2>Top 3 Projects</h2>
