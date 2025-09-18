@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/AlvaroVasquezAI">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=600&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hello,+I'm+%C3%81lvaro;I'm+an+AI+Engineer;Trying+to+improve+the+world+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hello,+I'm+%C3%81lvaro;An+AI+Engineer;Trying+to+improve+the+world+with+code" alt="Typing SVG" />
   </a>
 </p>
 
